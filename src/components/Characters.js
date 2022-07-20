@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 class Character extends React.Component {
 	render() {
 		return(
@@ -11,7 +10,7 @@ class Character extends React.Component {
                     <p className='card-text'>{this.props.title}</p>   
                 </div>
                 <button className="btn filter btn-primary m-3" onClick={this.props.handleFavoriteClick}>
-                <i className="fa-solid fa-heart"></i></button>
+                <i className={this.props.icon}></i></button>
         </div>
 		)
 	}
