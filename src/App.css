@@ -48,6 +48,10 @@ span{
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
 }
+.card-img-top{
+  width: 18rem;
+  height: 18rem;
+}
 .content{
   display:flex;
   flex-direction: column;
