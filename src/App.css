@@ -22,8 +22,10 @@
 }
 body{
   background-image:
-  linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 44, 24, 0.5)),
-  url('../public/wp2116001-game-of-thrones-hd-wallpapers.jpg');
+  linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  url('../public/wp2116001-game-of-thrones-hd-wallpapers.jpg'); 
+  background-attachment: fixed;
+
 }
 .title{
   color: white;
