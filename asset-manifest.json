@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gameofthrone/static/css/main.82b1d2b4.css",
-    "main.js": "/gameofthrone/static/js/main.2e3ca279.js",
-    "static/js/787.6a541d2d.chunk.js": "/gameofthrone/static/js/787.6a541d2d.chunk.js",
-    "static/media/wp2116001-game-of-thrones-hd-wallpapers.jpg": "/gameofthrone/static/media/wp2116001-game-of-thrones-hd-wallpapers.7509b1faa53886432625.jpg",
-    "static/media/Game of Thrones.ttf": "/gameofthrone/static/media/Game of Thrones.71fa190a8a1a34123fa1.ttf",
-    "index.html": "/gameofthrone/index.html",
-    "main.82b1d2b4.css.map": "/gameofthrone/static/css/main.82b1d2b4.css.map",
-    "main.2e3ca279.js.map": "/gameofthrone/static/js/main.2e3ca279.js.map",
-    "787.6a541d2d.chunk.js.map": "/gameofthrone/static/js/787.6a541d2d.chunk.js.map"
+    "main.css": "/GameofThrone/static/css/main.fbd301bc.css",
+    "main.js": "/GameofThrone/static/js/main.a4c72bf9.js",
+    "static/js/787.6a541d2d.chunk.js": "/GameofThrone/static/js/787.6a541d2d.chunk.js",
+    "static/media/wp2116001-game-of-thrones-hd-wallpapers.jpg": "/GameofThrone/static/media/wp2116001-game-of-thrones-hd-wallpapers.7509b1faa53886432625.jpg",
+    "static/media/Game of Thrones.ttf": "/GameofThrone/static/media/Game of Thrones.71fa190a8a1a34123fa1.ttf",
+    "index.html": "/GameofThrone/index.html",
+    "main.fbd301bc.css.map": "/GameofThrone/static/css/main.fbd301bc.css.map",
+    "main.a4c72bf9.js.map": "/GameofThrone/static/js/main.a4c72bf9.js.map",
+    "787.6a541d2d.chunk.js.map": "/GameofThrone/static/js/787.6a541d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82b1d2b4.css",
-    "static/js/main.2e3ca279.js"
+    "static/css/main.fbd301bc.css",
+    "static/js/main.a4c72bf9.js"
   ]
 }
